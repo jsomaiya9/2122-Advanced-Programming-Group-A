@@ -9,6 +9,25 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
+
+/*Custom CSS For ADs */
+
+.ad-container{
+   position: sticky;
+   right: 0px;
+   height:100%;
+   width:0%;
+}
+
+.ad{
+    width: 20%;
+    height:50%;
+    float: left;
+    border: 1px solid black;
+
+}
+
 body {
   margin: 0;
 }
