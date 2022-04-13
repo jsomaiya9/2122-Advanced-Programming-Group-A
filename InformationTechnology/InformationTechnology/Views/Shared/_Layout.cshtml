@@ -29,17 +29,58 @@
             </div>
         </div>
     </div>
+    <div class="logo-picture" style="position:absolute;  right:5%; top:5%; width:100px; height:100px;">
+        <img style="width: 200px; height:200px;" src="~/Image/Logo.png" />
+    </div>
+    <div class="ad-container" style="top:30%;
+                                     border: 1px solid black;
+                                     right: 0%;
+                                     height:70%;
+                                     position:absolute;
+                                     width:15%;
+                                     ">
+        
+        <div class="ad" style="border: 1px solid black;
+                                        width:100%;
+                                        float:left;
+                                       height:40%;
+                                       justify-content:center;
+                                       align-items:center;
+                                       text-align:center;">
+            ad1
+        </div>
+        <div class="ad" style="border: 1px solid black;
+                                       width:100%;
+                                       height:30%;
+                                       justify-content:center;
+                                       align-items:center;
+                                       text-align:center;">
 
+            ad2
+
+        </div>
+        <div class="ad" style="border: 1px solid black;
+                                       width:100%;
+                                       height:30%;
+                                       justify-content:center;
+                                       align-items:center;
+                                       text-align:center;">
+
+            ad3
+
+        </div>
+    </div>
     <div class="container body-content">
+
         @RenderBody()
         <hr />
         <footer style="position:static; bottom:0%;">
-                <p> Contact Us Here:  </p> <br /><p> Our Social Media: </p>
+            <p> Contact Us Here:  </p> <br /><p> Our Social Media: </p>
         </footer>
     </div>
 
 
- 
+
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)

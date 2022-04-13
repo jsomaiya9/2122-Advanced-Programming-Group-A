@@ -12,8 +12,9 @@ html {
 
 
 /*Custom CSS For ADs */
-
+/*
 .ad-container{
+   border: 1px solid black;
    position: sticky;
    right: 0px;
    height:100%;
@@ -27,7 +28,7 @@ html {
     border: 1px solid black;
 
 }
-
+*/
 body {
   margin: 0;
 }
