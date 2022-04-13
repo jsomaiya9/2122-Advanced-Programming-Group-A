@@ -4,27 +4,48 @@
 
 <div class="jumbotron">
     <h1>Welcome to Information and Technology College! </h1>
-    <p class="lead">Here, you can view and see different courses available to interested people.</p>
+    <p class="lead">
+        Here, you can view and see different courses available to interested people.
+        Computing and IT Courses are at the cutting edge of new career opportunities, and Buckinghamshire College Group provides a range of courses at different levels to develop your technical skills and abilities, giving you an advantage in a fast growing industry. So whether its learning about how to improve productivity using IT, or learning how to format cells and worksheets in Excel, the skills you will pick up in our courses will help give you the practical experience to help achieve success in the Computer and IT Industry. Here at Buckinghamshire College Group we offer a Foundation Degree in IT, as well as numerous IT based Diplomas. We also offer Apprenticeships in IT User Skills, which allow you to gain a foundation in advanced practical skills whilst earning a wage and a recognised qualification.
+    </p>
 </div>
 
 
-<div class="row" style="position:static">
+<div class="row" style="position:relative">
     <div class="col-md-4">
         <h2> Browse Courses!</h2>
         <p>
             We have got collection of courses which will fulfill your desire to learn about Computing or Informations!
+
         </p>
         <p>
-            <a >
+            <a>
                 @Html.ActionLink("Courses", "Index", "Courses")
             </a>
         </p>
 
     </div>
-    <div class="col-md-4">
+    <div style="position: relative; " class="col-md-4">
         <h2>Register with us!</h2>
         <p>Register, to be able to learn with our college and achieve the stars!  </p>
         <p><a class="btn btn-default" href="#/Home/Register">Register Here! &raquo;</a></p>
     </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
 
-</div>
+    <div class="col-md-4" style="bottom: 0px; left:0px; position:relative">
+        <p>
+            <a href="@Url.Action("Index", "Courses", null)">
+
+                <img style="width: 300px; height:200px;" src="~/Image/courses-main.jpg" />
+            </a>
+        </p>
+    </div>
+
+</div>  

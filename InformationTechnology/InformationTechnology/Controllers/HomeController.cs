@@ -22,7 +22,7 @@ namespace InformationTechnology.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Need help? Contact Us.";
 
             return View();
         }
