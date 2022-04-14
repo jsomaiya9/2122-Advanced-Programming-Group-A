@@ -29,5 +29,9 @@ namespace InformationTechnology.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<InformationTechnology.Models.Module> Modules { get; set; }
+
+        public System.Data.Entity.DbSet<InformationTechnology.Models.Course> Courses { get; set; }
     }
 }

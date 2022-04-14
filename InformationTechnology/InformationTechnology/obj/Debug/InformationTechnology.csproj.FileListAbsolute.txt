@@ -50,8 +50,304 @@ D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Progr
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.xml
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.xml
-D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CoreCompileInputs.cache
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CopyComplete
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.dll
 D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.pdb
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll.config
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.pdb
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Web.Infrastructure.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Owin.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\WebGrease.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.pdb
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.xml
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CoreCompileInputs.cache
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CopyComplete
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.dll
+I:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.pdb
+D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.Migrations.InitialCreate.resources
+D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.GenerateResource.cache
+D:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll.config
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.pdb
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Owin.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\WebGrease.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.pdb
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.Migrations.InitialCreate.resources
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.GenerateResource.cache
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CoreCompileInputs.cache
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CopyComplete
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.dll
+C:\Users\mazur\Desktop\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.pdb
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll.config
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.pdb
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Owin.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\WebGrease.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.pdb
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.Migrations.InitialCreate.resources
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.GenerateResource.cache
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CoreCompileInputs.cache
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CopyComplete
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.dll
+C:\Users\mazur\Desktop\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.pdb
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll.config
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.pdb
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Web.Infrastructure.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Owin.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\WebGrease.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.pdb
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.xml
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.Migrations.InitialCreate.resources
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.GenerateResource.cache
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CoreCompileInputs.cache
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CopyComplete
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.dll
+H:\DMU Course\Year 2\Advanced Programming - Jai\Assignment 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.pdb
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll.config
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\InformationTechnology.pdb
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Web.Infrastructure.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Owin.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\WebGrease.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\EntityFramework.SqlServer.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Helpers.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Mvc.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Optimization.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.Razor.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Deployment.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\System.Web.WebPages.Razor.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Newtonsoft.Json.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Antlr3.Runtime.pdb
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Google.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.AssemblyReference.cache
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.Migrations.InitialCreate.resources
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.GenerateResource.cache
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CoreCompileInputs.cache
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.csproj.CopyComplete
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.dll
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.pdb
+D:\DMU Course\Year 2\2122-Advanced-Programming-Group-A\InformationTechnology\InformationTechnology\obj\Debug\InformationTechnology.Migrations.AddDescTeachToModules.resources

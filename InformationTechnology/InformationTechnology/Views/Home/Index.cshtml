@@ -3,29 +3,49 @@
 }
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>Welcome to Information and Technology College! </h1>
+    <p class="lead">
+        Here, you can view and see different courses available to interested people.
+        Computing and IT Courses are at the cutting edge of new career opportunities, and Buckinghamshire College Group provides a range of courses at different levels to develop your technical skills and abilities, giving you an advantage in a fast growing industry. So whether its learning about how to improve productivity using IT, or learning how to format cells and worksheets in Excel, the skills you will pick up in our courses will help give you the practical experience to help achieve success in the Computer and IT Industry. Here at Buckinghamshire College Group we offer a Foundation Degree in IT, as well as numerous IT based Diplomas. We also offer Apprenticeships in IT User Skills, which allow you to gain a foundation in advanced practical skills whilst earning a wage and a recognised qualification.
+    </p>
 </div>
 
-<div class="row">
+
+<div class="row" style="position:relative">
     <div class="col-md-4">
-        <h2>Getting started</h2>
+        <h2> Browse Courses!</h2>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            We have got collection of courses which will fulfill your desire to learn about Computing or Informations!
+
         </p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <p>
+            <a>
+                @Html.ActionLink("Courses", "Index", "Courses")
+            </a>
+        </p>
+
     </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    <div style="position: relative; " class="col-md-4">
+        <h2>Register with us!</h2>
+        <p>Register, to be able to learn with our college and achieve the stars!  </p>
+        <p><a class="btn btn-default" href="#/Home/Register">Register Here! &raquo;</a></p>
     </div>
-    <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div class="col-md-4" style="bottom: 0px; left:0px; position:relative">
+        <p>
+            <a href="@Url.Action("Index", "Courses", null)">
+
+                <img style="width: 300px; height:200px;" src="~/Image/courses-main.jpg" />
+            </a>
+        </p>
     </div>
-</div>
+
+</div>  

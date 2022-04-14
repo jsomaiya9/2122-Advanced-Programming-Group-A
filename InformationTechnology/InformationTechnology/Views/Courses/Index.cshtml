@@ -1,0 +1,32 @@
+﻿@model IEnumerable<InformationTechnology.Models.Course>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Courses</h1>
+
+
+<h3> These are the courses we offer:</h3>
+<table class="table">
+    <tr>
+        <th>
+            Courses:
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseName)
+        </td>
+
+        <td>
+            @Html.ActionLink("Details", "Details", new { id=item.CourseID })  | 
+            @Html.ActionLink("Register", "Register", "Account")
+        </td>
+    </tr>
+}
+
+</table>
