@@ -1,0 +1,2 @@
+D:\Assignemnt 2 adv prog\InformationTechnology\InformationTechnology\TestInformationTechnologyCollege\obj\Debug\TestInformationTechnologyCollege.csproj.AssemblyReference.cache
+D:\Assignemnt 2 adv prog\InformationTechnology\InformationTechnology\TestInformationTechnologyCollege\obj\Debug\TestInformationTechnologyCollege.csproj.CoreCompileInputs.cache
