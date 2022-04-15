@@ -4,7 +4,7 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Modules</h2>
 
 
 <table class="table">
@@ -45,9 +45,7 @@
                 @Html.DisplayFor(modelItem => item.ModuleTeacher)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.ModuleID }) |
                 @Html.ActionLink("Details", "Details", new { id = item.ModuleID }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.ModuleID })
             </td>
         </tr>
     }
